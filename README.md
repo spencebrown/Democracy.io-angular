@@ -36,7 +36,7 @@ or install manually via http://redis.io/topics/quickstart - making sure to read 
 
 ### App dependencies & build
 
-### Notes Per Spencer to Get the Dependencies Installed Correctly (since they are very old)
+#### Notes Per Spencer to Get the Dependencies Installed Correctly (since they are very old)
 
 In thise project, need to install node version that is in package.json file (v8.12.0)...
 ```
@@ -58,7 +58,7 @@ npm install simple-swizzle@^0.2.2
 
 Now try running gulp serve in the terminal, and the app should pop up in a localhost window
 
-### End Spencer's notes
+#### End Spencer's notes
 
 ```
 npm install
