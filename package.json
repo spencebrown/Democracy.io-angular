@@ -98,6 +98,7 @@
     "raven-js": "^3.10.0",
     "redis": "^0.12.1",
     "serve-favicon": "^2.2.1",
+    "simple-swizzle": "^0.2.2",
     "stacktrace-js": "0.6.3",
     "swagger-express-middleware": "^1.0.0-alpha.12",
     "tokenthrottle-redis": "^1.1.0",
